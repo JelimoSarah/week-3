@@ -1,0 +1,17 @@
+#logoImg{
+    width: 10%;
+    height: 10%;
+    align-items: center;
+}
+#services{
+    color: white;
+}
+#design{
+    display: none;
+}
+#development{
+    display: none;
+}
+#productManagement{
+    display: none;
+}
