@@ -28,3 +28,7 @@
 #productManagement{
     display: none;
 }
+.col-sm-3 div p {
+    display: none;
+
+}
