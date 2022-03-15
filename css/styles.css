@@ -1,8 +1,21 @@
 #logoImg{
+    align-items: center;
     width: 10%;
     height: 10%;
-    align-items: center;
+    
 }
+#mouseImg{
+    width: 5%;
+    height: 5%;
+    align-items: center;
+
+}
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 #services{
     color: white;
 }
