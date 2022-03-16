@@ -5,6 +5,22 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+    $("#developmentP").click(function(){
+        $("#developmentImg").toggle();
+        $("#development").toggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#productManagementP").click(function(){
+        $("#productManagementImg").toggle();
+        $("#productManagement").toggle();
+    });
+});
+
+
+
 $("#port1").mouseover(function () {
     $("#p1").show();
 })
